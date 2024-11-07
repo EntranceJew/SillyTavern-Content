@@ -4,5 +4,10 @@
     "id": "Groupies.json",
     "name": "Allows managing group chats.",
     "url": "https://github.com/EntranceJew/SillyTavern-Content/raw/main/assets/QuickReplies/Groupies.json"
+  },
+  {
+    "type": "message",
+    "id": "mini-grind.ogg",
+    "url": "https://github.com/EntranceJew/SillyTavern-Content/raw/main/assets/message/mini-grind.ogg"
   }
 ]
